@@ -1,0 +1,3 @@
+const jsy = {
+  name: "sungyoon",
+};
